@@ -1,5 +1,11 @@
 # Multi-Omics Analysis of Gene Expression and Alternative Splicing in Clear Cell Renal Cell Carcinoma (KIRC)
 
+## Repository Structure
+
+- `scripts/`: R scripts covering the different stages of the bioinformatics analysis.
+- `results/figures/`: Selected figures illustrating the main findings.
+- `results/tables/`: Selected tables summarizing relevant results.
+
 ## Overview
 
 This project investigates transcriptomic alterations associated with tumour progression in clear cell renal cell carcinoma (KIRC) through the integrated analysis of gene expression and alternative splicing.
