@@ -1,1 +1,1 @@
-Selected tables summarizing relevant results.
+Selected tables summarizing the main results of the bioinformatics analysis, including cohort characterization, differential expression, alternative splicing, multi-omics integration, functional enrichment, and statistical analysis.
