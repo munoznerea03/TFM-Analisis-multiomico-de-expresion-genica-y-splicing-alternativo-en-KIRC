@@ -1,0 +1,12 @@
+"Gen candidato","Estado clínico del paciente (TCGA-KIRC)","Estado clínico del paciente (TCGA-KIRC)","p-value2"
+"Gen candidato","TUMOR FREE
+N = 3591","WITH TUMOR
+N = 1371","p-value2"
+"SAA2 (Log2 Counts)","2.58 (1.58, 5.21)","4.70 (2.58, 7.32)","<0.001"
+"APOLD1 (Log2 Counts)","13.73 (12.65, 14.63)","12.90 (11.70, 13.80)","<0.001"
+"UGT1A10 (Log2 Counts)","1.58 (0.00, 2.58)","2.00 (1.00, 5.78)","0.003"
+"MAPT (Log2 Counts)","12.21 (10.77, 13.10)","10.81 (9.37, 12.30)","<0.001"
+"DNASE1L3 (Log2 Counts)","8.50 (7.37, 9.49)","7.79 (6.69, 8.75)","<0.001"
+"SCGB3A2 (Log2 Counts)","3.00 (1.00, 5.21)","4.17 (2.00, 6.00)","0.001"
+"1 Median (Q1, Q3)","1 Median (Q1, Q3)","1 Median (Q1, Q3)","1 Median (Q1, Q3)"
+"2 Wilcoxon rank sum test","2 Wilcoxon rank sum test","2 Wilcoxon rank sum test","2 Wilcoxon rank sum test"
