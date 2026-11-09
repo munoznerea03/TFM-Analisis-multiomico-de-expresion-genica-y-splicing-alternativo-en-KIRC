@@ -1,1 +1,1 @@
-Selected figures illustrating the main findings.
+Selected figures illustrating the main results of the bioinformatics analysis, including cohort characterization, differential expression, alternative splicing, multi-omics integration, functional enrichment, and survival analysis.
