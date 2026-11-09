@@ -1,0 +1,4 @@
+"Term","Overlap","P.value","Adjusted.P.value","Old.P.value","Old.Adjusted.P.value","Odds.Ratio","Combined.Score","Genes"
+"Glutamine Family Amino Acid Biosynthetic Process (GO:0009084)","2/11",0.000233953796761913,0.0371703297881575,0,0,110.827777777778,926.563102801396,"GLS2;GLUL"
+"Glutamine Metabolic Process (GO:0006541)","2/13",0.000330906720176816,0.0371703297881575,0,0,90.6681818181818,726.585254387913,"GLS2;GLUL"
+"Glutamine Family Amino Acid Catabolic Process (GO:0009065)","2/15",0.000444266889898297,0.0371703297881575,0,0,76.7115384615385,592.142891445978,"GLS2;GLUL"
